@@ -14,5 +14,9 @@
 7. ![animate_vector_pendulum_point](http://ghui.u.qiniudn.com/gif7.gif) inspired from [here](https://dribbble.com/shots/963799-Animation-Loading-gif)
 
 
+## Usage about PathData of VectorDrawable
+1. [理解Android VectorDrawable中的pathData命令【续】](http://ghui.me/post/2016/09/Vectordrawable_pathData/)
+2. [【译】理解Android VectorDrawable中的pathData命令](http://ghui.me/post/2016/10/vectordrawable_pathData_advanced/)
+
 ## Issues
 Animation of Gif5 and Gif6 realized by `Animation-Set` Which had some bugs for animation repeat [Details](http://stackoverflow.com/questions/4480652/android-animation-does-not-repeat). So Gif5 and Gif6 cannot be repeat automatically.
