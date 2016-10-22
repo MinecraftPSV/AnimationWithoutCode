@@ -58,6 +58,11 @@ public class MainActivity extends AppCompatActivity {
 		start(view);
 	}
 
+	//8
+	public void onAppleLoadingClicked(View view) {
+		start(view);
+		repeat(view);
+	}
 	private void start(View view) {
 		ImageView imageView = (ImageView) view;
 		Animatable animatable = (Animatable) imageView.getDrawable();

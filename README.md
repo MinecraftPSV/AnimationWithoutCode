@@ -12,6 +12,7 @@
 
 6. ![anim_loading_point](http://ghui.u.qiniudn.com/gif6.gif) inspired from [here](https://dribbble.com/shots/2163147-Loading)
 7. ![animate_vector_pendulum_point](http://ghui.u.qiniudn.com/gif7.gif) inspired from [here](https://dribbble.com/shots/963799-Animation-Loading-gif)
+8. ![animate_vector_apple_loading](http://ghui.u.qiniudn.com/gif8.gif) 
 
 
 ## Usage about PathData of VectorDrawable
