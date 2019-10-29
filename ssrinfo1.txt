@@ -3,8 +3,6 @@ mactmonline.hopto.org|443|mblank1port|chacha20|auth_aes128_md5|16384:52halibote|
 us-lax-a.uturbo.xyz|443|mblank1port|chacha20|auth_aes128_md5|16384:52halibote|tls1.2_ticket_auth|imdb-video.media-imdb.com|供应商：Meowcloud|美国(禁NBA)1号|有效期：终生|无流量限制|https://url.cn/59UMUZU
 jp-pccwa.uturbo.xyz|443|mblank1port|chacha20|auth_aes128_md5|16384:52halibote|tls1.2_ticket_auth|imdb-video.media-imdb.com|供应商：Meowcloud|日本东京1号|有效期：终生|无流量限制|https://url.cn/59UMUZU
 kr-sel-m.uturbo.xyz|443|mblank1port|chacha20|auth_aes128_md5|16384:52halibote|tls1.2_ticket_auth|imdb-video.media-imdb.com|供应商：Meowcloud|高丽棒子1号|有效期：终生|无流量限制|https://url.cn/59UMUZU
-18.136.186.225|3717|PiywVi|aes-256-cfb|origin||plain||供应商：Meowcloud|新加坡1号|有效期：终生|无流量限制|https://url.cn/59UMUZU
-185.22.154.64|3717|PiywVi|aes-256-cfb|origin||plain||供应商：Meowcloud|特快俄罗斯1号|有效期：终生|无流量限制|https://url.cn/59UMUZU
 hktonline-b.hopto.org|443|mblank1port|chacha20|auth_aes128_md5|16384:52halibote|tls1.2_ticket_auth|imdb-video.media-imdb.com|供应商：Meowcloud|中国香港1号|有效期：终生|无流量限制|https://url.cn/59UMUZU
 hktonline-c.hopto.org|443|mblank1port|chacha20|auth_aes128_md5|16384:52halibote|tls1.2_ticket_auth|imdb-video.media-imdb.com|供应商：Meowcloud|中国香港2号|有效期：终生|无流量限制|https://url.cn/59UMUZU
 hktonline-d.sytes.net|443|mblank1port|chacha20|auth_aes128_md5|16384:52halibote|tls1.2_ticket_auth|imdb-video.media-imdb.com|供应商：Meowcloud|中国香港3号|有效期：终生|无流量限制|https://url.cn/59UMUZU
