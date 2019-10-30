@@ -1,4 +1,4 @@
-www.baidu.com|443|mblank1port|chacha20|auth_aes128_md5|19309:52halibote|tls1.2_ticket_auth|imdb-video.media-imdb.com|最新版本为：V3.4|请选择服务器|有效期：终生|未知流量|https://url.cn/59UMUZU
+www.baidu.com|443|mblank1port|chacha20|auth_aes128_md5|19309:52halibote|tls1.2_ticket_auth|imdb-video.media-imdb.com|最新版本为：V3.5|请选择服务器|有效期：终生|未知流量|https://url.cn/59UMUZU
 mactmonline.hopto.org|443|mblank1port|chacha20|auth_aes128_md5|19309:52halibote|tls1.2_ticket_auth|imdb-video.media-imdb.com|供应商：Meowcloud|中国澳门1号|有效期：终生|无流量限制|https://url.cn/59UMUZU
 us-lax-a.uturbo.xyz|443|mblank1port|chacha20|auth_aes128_md5|19309:52halibote|tls1.2_ticket_auth|imdb-video.media-imdb.com|供应商：Meowcloud|美国(禁NBA)1号|有效期：终生|无流量限制|https://url.cn/59UMUZU
 jp-pccwa.uturbo.xyz|443|mblank1port|chacha20|auth_aes128_md5|19309:52halibote|tls1.2_ticket_auth|imdb-video.media-imdb.com|供应商：Meowcloud|日本东京1号|有效期：终生|无流量限制|https://url.cn/59UMUZU
