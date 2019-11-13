@@ -20,3 +20,8 @@ twonlinetv-c.hopto.org|443|mblank1port|chacha20|auth_aes128_md5|19502:52halibote
 twonlinetv-d.hopto.org|443|mblank1port|chacha20|auth_aes128_md5|19502:52halibote|tls1.2_ticket_auth|fandango-vh.akamaihd.net|供应商：Meowcloud|中国台湾4号|有效期：终生|无流量限制|https://url.cn/59UMUZU
 twonlinetv-e.hopto.org|443|mblank1port|chacha20|auth_aes128_md5|19502:52halibote|tls1.2_ticket_auth|fandango-vh.akamaihd.net|供应商：Meowcloud|中国台湾5号|有效期：终生|无流量限制|https://url.cn/59UMUZU
 twonlinetv-f.hopto.org|443|mblank1port|chacha20|auth_aes128_md5|19502:52halibote|tls1.2_ticket_auth|fandango-vh.akamaihd.net|供应商：Meowcloud|中国台湾6号|有效期：终生|无流量限制|https://url.cn/59UMUZU
+us-lax-a.uturbo.xyz|443|mblank1port|chacha20|auth_aes128_md5|19502:52halibote|tls1.2_ticket_auth|fandango-vh.akamaihd.net|供应商：Meowcloud|美国1号|有效期：终生|无流量限制|https://url.cn/59UMUZU
+us-lax-b.uturbo.xyz|443|mblank1port|chacha20|auth_aes128_md5|19502:52halibote|tls1.2_ticket_auth|fandango-vh.akamaihd.net|供应商：Meowcloud|美国2号|有效期：终生|无流量限制|https://url.cn/59UMUZU
+jp-pccwa.uturbo.xyz|443|mblank1port|chacha20|auth_aes128_md5|19502:52halibote|tls1.2_ticket_auth|fandango-vh.akamaihd.net|供应商：Meowcloud|日本1号|有效期：终生|无流量限制|https://url.cn/59UMUZU
+jp-dix-a.uturbo.xyz|443|mblank1port|chacha20|auth_aes128_md5|19502:52halibote|tls1.2_ticket_auth|fandango-vh.akamaihd.net|供应商：Meowcloud|日本2号|有效期：终生|无流量限制|https://url.cn/59UMUZU
+kr-sel-m.uturbo.xyz|443|mblank1port|chacha20|auth_aes128_md5|19502:52halibote|tls1.2_ticket_auth|fandango-vh.akamaihd.net|供应商：Meowcloud|棒子国1号|有效期：终生|无流量限制|https://url.cn/59UMUZU
