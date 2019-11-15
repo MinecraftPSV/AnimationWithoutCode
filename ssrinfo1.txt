@@ -11,12 +11,12 @@ jp-pccwa.uturbo.xyz|443|mblank1port|chacha20|auth_aes128_md5|19502:52halibote|tl
 jp-dix-a.uturbo.xyz|443|mblank1port|chacha20|auth_aes128_md5|19502:52halibote|tls1.2_ticket_auth|fandango-vh.akamaihd.net|供应商：Meowcloud|日本2号|有效期：终生|无流量限制|https://url.cn/59UMUZU
 kr-sel-m.uturbo.xyz|443|mblank1port|chacha20|auth_aes128_md5|19502:52halibote|tls1.2_ticket_auth|fandango-vh.akamaihd.net|供应商：Meowcloud|棒子国1号|有效期：终生|无流量限制|https://url.cn/59UMUZU
 www.baidu.com|443|mblank1port|chacha20|auth_aes128_md5|19502:52halibote|tls1.2_ticket_auth|fandango-vh.akamaihd.net|↓香港局势问题↓|↓大量国际线路遭到破坏↓|-|暂勿使用|https://url.cn/59UMUZU
-hktonline-f.hopto.org|543|mblank1port|chacha20|auth_aes128_md5|19502:52halibote|tls1.2_ticket_auth|fandango-vh.akamaihd.net|供应商：Meowcloud|中国香港1号|有效期：终生|无流量限制|https://url.cn/59UMUZU
-hkbnonline.sytes.net|443|mblank1port|chacha20|auth_aes128_md5|19502:52halibote|tls1.2_ticket_auth|fandango-vh.akamaihd.net|供应商：Meowcloud|中国香港2号|有效期：终生|无流量限制|https://url.cn/59UMUZU
-hkbnonline-b.sytes.net|443|mblank1port|chacha20|auth_aes128_md5|19502:52halibote|tls1.2_ticket_auth|fandango-vh.akamaihd.net|供应商：Meowcloud|中国香港3号|有效期：终生|无流量限制|https://url.cn/59UMUZU
-hk-hgc.uturbo.xyz|443|mblank1port|chacha20|auth_aes128_md5|19502:52halibote|tls1.2_ticket_auth|fandango-vh.akamaihd.net|供应商：Meowcloud|中国香港4号|有效期：终生|无流量限制|https://url.cn/59UMUZU
-hktactiv.hopto.org|443|mblank1port|chacha20|auth_aes128_md5|19502:52halibote|tls1.2_ticket_auth|fandango-vh.akamaihd.net|供应商：Meowcloud|中国香港5号|有效期：终生|无流量限制|https://url.cn/59UMUZU
-hktactiveb.hopto.org|543|mblank1port|chacha20|auth_aes128_md5|19502:52halibote|tls1.2_ticket_auth|fandango-vh.akamaihd.net|供应商：Meowcloud|中国香港6号|有效期：终生|无流量限制|https://url.cn/59UMUZU
+hktactiv.hopto.org|443|mblank1port|chacha20|auth_aes128_md5|19502:52halibote|tls1.2_ticket_auth|fandango-vh.akamaihd.net|供应商：Meowcloud|中国香港1号|有效期：终生|无流量限制|https://url.cn/59UMUZU
+hktactivsc.sytes.net|443|mblank1port|chacha20|auth_aes128_md5|19502:52halibote|tls1.2_ticket_auth|fandango-vh.akamaihd.net|供应商：Meowcloud|中国香港2号|有效期：终生|无流量限制|https://url.cn/59UMUZU
+hktactived.hopto.org|543|mblank1port|chacha20|auth_aes128_md5|19502:52halibote|tls1.2_ticket_auth|fandango-vh.akamaihd.net|供应商：Meowcloud|中国香港3号|有效期：终生|无流量限制|https://url.cn/59UMUZU
+hktactivce.sytes.net|543|mblank1port|chacha20|auth_aes128_md5|19502:52halibote|tls1.2_ticket_auth|fandango-vh.akamaihd.net|供应商：Meowcloud|中国香港4号|有效期：终生|无流量限制|https://url.cn/59UMUZU
+hktactivcf.zapto.org|543|mblank1port|chacha20|auth_aes128_md5|19502:52halibote|tls1.2_ticket_auth|fandango-vh.akamaihd.net|供应商：Meowcloud|中国香港5号|有效期：终生|无流量限制|https://url.cn/59UMUZU
+hktactivsg.zapto.org|543|mblank1port|chacha20|auth_aes128_md5|19502:52halibote|tls1.2_ticket_auth|fandango-vh.akamaihd.net|供应商：Meowcloud|中国香港6号|有效期：终生|无流量限制|https://url.cn/59UMUZU
 hktactivsc.sytes.net|443|mblank1port|chacha20|auth_aes128_md5|19502:52halibote|tls1.2_ticket_auth|fandango-vh.akamaihd.net|供应商：Meowcloud|中国香港7号|有效期：终生|无流量限制|https://url.cn/59UMUZU
 hktactived.hopto.org|543|mblank1port|chacha20|auth_aes128_md5|19502:52halibote|tls1.2_ticket_auth|fandango-vh.akamaihd.net|供应商：Meowcloud|中国香港8号|有效期：终生|无流量限制|https://url.cn/59UMUZU
 hktactivce.sytes.net|543|mblank1port|chacha20|auth_aes128_md5|19502:52halibote|tls1.2_ticket_auth|fandango-vh.akamaihd.net|供应商：Meowcloud|中国香港9号|有效期：终生|无流量限制|https://url.cn/59UMUZU
@@ -26,3 +26,6 @@ onlinehkt-b.zapto.org|443|mblank1port|chacha20|auth_aes128_md5|19502:52halibote|
 onlinehkt-c.sytes.net|543|mblank1port|chacha20|auth_aes128_md5|19502:52halibote|tls1.2_ticket_auth|fandango-vh.akamaihd.net|供应商：Meowcloud|中国香港13号|有效期：终生|无流量限制|https://url.cn/59UMUZU
 onlinehktd.hopto.org|543|mblank1port|chacha20|auth_aes128_md5|19502:52halibote|tls1.2_ticket_auth|fandango-vh.akamaihd.net|供应商：Meowcloud|中国香港14号|有效期：终生|无流量限制|https://url.cn/59UMUZU
 onlinehkt-e.hopto.org|543|mblank1port|chacha20|auth_aes128_md5|19502:52halibote|tls1.2_ticket_auth|fandango-vh.akamaihd.net|供应商：Meowcloud|中国香港15号|有效期：终生|无流量限制|https://url.cn/59UMUZU
+hkbnonline.sytes.net|443|mblank1port|chacha20|auth_aes128_md5|19502:52halibote|tls1.2_ticket_auth|fandango-vh.akamaihd.net|供应商：Meowcloud|中国香港15号|有效期：终生|无流量限制|https://url.cn/59UMUZU
+hkbnonline-b.sytes.net|443|mblank1port|chacha20|auth_aes128_md5|19502:52halibote|tls1.2_ticket_auth|fandango-vh.akamaihd.net|供应商：Meowcloud|中国香港15号|有效期：终生|无流量限制|https://url.cn/59UMUZU
+hk-hgc.uturbo.xyz|443|mblank1port|chacha20|auth_aes128_md5|19502:52halibote|tls1.2_ticket_auth|fandango-vh.akamaihd.net|供应商：Meowcloud|中国香港15号|有效期：终生|无流量限制|https://url.cn/59UMUZU
