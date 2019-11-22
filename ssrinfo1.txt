@@ -3,7 +3,7 @@ hktactiv.hopto.org|443|mblank1port|chacha20|auth_aes128_md5|19502:52halibote|tls
 hktactiveb.hopto.org|543|mblank1port|chacha20|auth_aes128_md5|19502:52halibote|tls1.2_ticket_auth|imdb-video.media-imdb.com|供应商：Meowcloud|中国香港2号|有效期：终生|无流量限制|https://url.cn/59UMUZU
 hktactivsc.sytes.net|443|mblank1port|chacha20|auth_aes128_md5|19502:52halibote|tls1.2_ticket_auth|imdb-video.media-imdb.com|供应商：Meowcloud|中国香港3号|有效期：终生|无流量限制|https://url.cn/59UMUZU
 hktactived.hopto.org|543|mblank1port|chacha20|auth_aes128_md5|19502:52halibote|tls1.2_ticket_auth|imdb-video.media-imdb.com|供应商：Meowcloud|中国香港4号|有效期：终生|无流量限制|https://url.cn/59UMUZU
-hktactivce.sytes.net|543|mblank1port|chacha20|auth_aes128_md5|19502:52halibote|tls1.2_ticket_auth|imdb-video.media-imdb.com|供应商：Meowcloud|中国香港5号|有效期：终生|无流量限制|https://url.cn/59UMUZU
+hktactivce.sytes.net|443|mblank1port|chacha20|auth_aes128_md5|19502:52halibote|tls1.2_ticket_auth|imdb-video.media-imdb.com|供应商：Meowcloud|中国香港5号|有效期：终生|无流量限制|https://url.cn/59UMUZU
 hktactivcf.zapto.org|543|mblank1port|chacha20|auth_aes128_md5|19502:52halibote|tls1.2_ticket_auth|imdb-video.media-imdb.com|供应商：Meowcloud|中国香港6号|有效期：终生|无流量限制|https://url.cn/59UMUZU
 onlinehk-a.hopto.org|543|mblank1port|chacha20|auth_aes128_md5|19502:52halibote|tls1.2_ticket_auth|imdb-video.media-imdb.com|供应商：Meowcloud|中国香港7号|有效期：终生|无流量限制|https://url.cn/59UMUZU
 onlinehkt-b.zapto.org|443|mblank1port|chacha20|auth_aes128_md5|19502:52halibote|tls1.2_ticket_auth|imdb-video.media-imdb.com|供应商：Meowcloud|中国香港8号|有效期：终生|无流量限制|https://url.cn/59UMUZU
