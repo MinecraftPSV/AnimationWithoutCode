@@ -13,8 +13,7 @@ onlinehktd.hopto.org|543|mblank1port|chacha20|auth_aes128_md5|21631:52halibote|t
 onlinehkt-e.sytes.net|443|mblank1port|chacha20|auth_aes128_md5|21631:52halibote|tls1.2_ticket_auth|officecdn.microsoft.com|供应商：NBCVPS|中国香港12号|有效期：终生|无流量限制|https://yww.uy/nbcvps_ssr
 hkbnonline.sytes.net|443|mblank1port|chacha20|auth_aes128_md5|21631:52halibote|tls1.2_ticket_auth|officecdn.microsoft.com|供应商：NBCVPS|中国香港13号|有效期：终生|无流量限制|https://yww.uy/nbcvps_ssr
 hkbnonline-b.sytes.net|443|mblank1port|chacha20|auth_aes128_md5|21631:52halibote|tls1.2_ticket_auth|officecdn.microsoft.com|供应商：NBCVPS|中国香港14号|有效期：终生|无流量限制|https://yww.uy/nbcvps_ssr
-hk-hgc.uturbo.xyz|543|mblank1port|chacha20|auth_aes128_md5|21631:52halibote|tls1.2_ticket_auth|officecdn.microsoft.com|供应商：NBCVPS|中国香港15号|有效期：终生|无流量限制|https://yww.uy/nbcvps_ssr
-hkg01wtt.hopto.org|443|mblank1port|chacha20|auth_aes128_md5|21631:52halibote|tls1.2_ticket_auth|officecdn.microsoft.com|供应商：NBCVPS|中国香港16号|有效期：终生|无流量限制|https://yww.uy/nbcvps_ssr
+hkg01wtt.hopto.org|443|mblank1port|chacha20|auth_aes128_md5|21631:52halibote|tls1.2_ticket_auth|officecdn.microsoft.com|供应商：NBCVPS|中国香港15号|有效期：终生|无流量限制|https://yww.uy/nbcvps_ssr
 twonlinetv.hopto.org|443|mblank1port|chacha20|auth_aes128_md5|21631:52halibote|tls1.2_ticket_auth|officecdn.microsoft.com|供应商：NBCVPS|中国台湾1号|有效期：终生|无流量限制|https://yww.uy/nbcvps_ssr
 twonlinetv-b.hopto.org|443|mblank1port|chacha20|auth_aes128_md5|21631:52halibote|tls1.2_ticket_auth|officecdn.microsoft.com|供应商：NBCVPS|中国台湾2号|有效期：终生|无流量限制|https://yww.uy/nbcvps_ssr
 twonlinetv-c.hopto.org|443|mblank1port|chacha20|auth_aes128_md5|21631:52halibote|tls1.2_ticket_auth|officecdn.microsoft.com|供应商：NBCVPS|中国台湾3号|有效期：终生|无流量限制|https://yww.uy/nbcvps_ssr
