@@ -13,6 +13,8 @@ onlinehk-a.hopto.org|443|mblank1port|chacha20|auth_aes128_md5|21631:52halibote|t
 shonlinecu.serveblog.net|537|mblank1port|chacha20|auth_aes128_md5|21631:52halibote|tls1.2_ticket_auth|officecdn.microsoft.com|供应商：NBCVPS|中国香港12号|有效期：终生|无限流量|https://yww.uy/nbcvps_ssr
 shonlinecu.serveblog.net|543|mblank1port|chacha20|auth_aes128_md5|21631:52halibote|tls1.2_ticket_auth|officecdn.microsoft.com|供应商：NBCVPS|中国香港13号|有效期：终生|无限流量|https://yww.uy/nbcvps_ssr
 shonlinecu.serveblog.net|601|mblank1port|chacha20|auth_aes128_md5|21631:52halibote|tls1.2_ticket_auth|officecdn.microsoft.com|供应商：NBCVPS|中国香港14号|有效期：终生|无限流量|https://yww.uy/nbcvps_ssr
+hktactivsc.sytes.net|443|mblank1port|chacha20|auth_aes128_md5|21631:52halibote|tls1.2_ticket_auth|officecdn.microsoft.com|供应商：NBCVPS|中国香港15号|有效期：终生|无限流量|https://yww.uy/nbcvps_ssr
+hkbnonline-b.sytes.net|443|mblank1port|chacha20|auth_aes128_md5|21631:52halibote|tls1.2_ticket_auth|officecdn.microsoft.com|供应商：NBCVPS|中国香港16号|有效期：终生|无限流量|https://yww.uy/nbcvps_ssr
 us-la-a.uturbo.xyz|443|mblank1port|chacha20|auth_aes128_md5|21631:52halibote|tls1.2_ticket_auth|officecdn.microsoft.com|供应商：NBCVPS|美国1号|有效期：终生|无限流量|https://yww.uy/nbcvps_ssr
 us-la-b.uturbo.xyz|443|mblank1port|chacha20|auth_aes128_md5|21631:52halibote|tls1.2_ticket_auth|officecdn.microsoft.com|供应商：NBCVPS|美国2号|有效期：终生|无限流量|https://yww.uy/nbcvps_ssr
 us-la-c.uturbo.xyz|443|mblank1port|chacha20|auth_aes128_md5|21631:52halibote|tls1.2_ticket_auth|officecdn.microsoft.com|供应商：NBCVPS|美国3号|有效期：终生|无限流量|https://yww.uy/nbcvps_ssr
@@ -21,8 +23,8 @@ us-lax-e.uturbo.xyz|443|mblank1port|chacha20|auth_aes128_md5|21631:52halibote|tl
 us-lax-f.uturbo.xyz|443|mblank1port|chacha20|auth_aes128_md5|21631:52halibote|tls1.2_ticket_auth|officecdn.microsoft.com|供应商：NBCVPS|美国6号|有效期：终生|无限流量|https://yww.uy/nbcvps_ssr
 us-la-g.uturbo.xyz|443|mblank1port|chacha20|auth_aes128_md5|21631:52halibote|tls1.2_ticket_auth|officecdn.microsoft.com|供应商：NBCVPS|美国7号|有效期：终生|无限流量|https://yww.uy/nbcvps_ssr
 us-la-h.uturbo.xyz|443|mblank1port|chacha20|auth_aes128_md5|21631:52halibote|tls1.2_ticket_auth|officecdn.microsoft.com|供应商：NBCVPS|美国8号|有效期：终生|无限流量|https://yww.uy/nbcvps_ssr
-jp-dix-a.uturbo.xyz|443|mblank1port|chacha20|auth_aes128_md5|21631:52halibote|tls1.2_ticket_auth|officecdn.microsoft.com|供应商：NBCVPS|日本2号|有效期：终生|无限流量|https://yww.uy/nbcvps_ssr
-jp-dix-b.uturbo.xyz|443|mblank1port|chacha20|auth_aes128_md5|21631:52halibote|tls1.2_ticket_auth|officecdn.microsoft.com|供应商：NBCVPS|日本3号|有效期：终生|无限流量|https://yww.uy/nbcvps_ssr
-jp-dix-c.uturbo.xyz|443|mblank1port|chacha20|auth_aes128_md5|21631:52halibote|tls1.2_ticket_auth|officecdn.microsoft.com|供应商：NBCVPS|日本4号|有效期：终生|无限流量|https://yww.uy/nbcvps_ssr
-jp-dix-d.uturbo.xyz|443|mblank1port|chacha20|auth_aes128_md5|21631:52halibote|tls1.2_ticket_auth|officecdn.microsoft.com|供应商：NBCVPS|日本5号|有效期：终生|无限流量|https://yww.uy/nbcvps_ssr
+jp-dix-a.uturbo.xyz|443|mblank1port|chacha20|auth_aes128_md5|21631:52halibote|tls1.2_ticket_auth|officecdn.microsoft.com|供应商：NBCVPS|日本1号|有效期：终生|无限流量|https://yww.uy/nbcvps_ssr
+jp-dix-b.uturbo.xyz|443|mblank1port|chacha20|auth_aes128_md5|21631:52halibote|tls1.2_ticket_auth|officecdn.microsoft.com|供应商：NBCVPS|日本2号|有效期：终生|无限流量|https://yww.uy/nbcvps_ssr
+jp-dix-c.uturbo.xyz|443|mblank1port|chacha20|auth_aes128_md5|21631:52halibote|tls1.2_ticket_auth|officecdn.microsoft.com|供应商：NBCVPS|日本3号|有效期：终生|无限流量|https://yww.uy/nbcvps_ssr
+jp-dix-d.uturbo.xyz|443|mblank1port|chacha20|auth_aes128_md5|21631:52halibote|tls1.2_ticket_auth|officecdn.microsoft.com|供应商：NBCVPS|日本4号|有效期：终生|无限流量|https://yww.uy/nbcvps_ssr
 kr-sel-m.uturbo.xyz|443|mblank1port|chacha20|auth_aes128_md5|21631:52halibote|tls1.2_ticket_auth|officecdn.microsoft.com|供应商：NBCVPS|棒子国1号|有效期：终生|无限流量|https://yww.uy/nbcvps_ssr
