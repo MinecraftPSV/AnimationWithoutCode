@@ -25,7 +25,6 @@ hkonlinechkbn.sytes.net|443|mblank1port|chacha20|auth_aes128_md5|24558:52halibot
 shonlinesandcu02.serveblog.net|537|mblank1port|chacha20|auth_aes128_md5|24558:52halibote|tls1.2_ticket_auth|officecdn.microsoft.com|供应商：NBCVPS|中国香港24号|有效期：终生|无限流量|https://yww.uy/nbcvps_ssr
 shonline2cu.serveblog.net|543|mblank1port|chacha20|auth_aes128_md5|24558:52halibote|tls1.2_ticket_auth|officecdn.microsoft.com|供应商：NBCVPS|中国香港25号|有效期：终生|无限流量|https://yww.uy/nbcvps_ssr
 twonlinetv.hopto.org|443|mblank1port|chacha20|auth_aes128_md5|24558:52halibote|tls1.2_ticket_auth|officecdn.microsoft.com|供应商：NBCVPS|中国台湾1号|有效期：终生|无限流量|https://yww.uy/nbcvps_ssr
-twonlinetv-f.hopto.org|443|mblank1port|chacha20|auth_aes128_md5|24558:52halibote|tls1.2_ticket_auth|officecdn.microsoft.com|供应商：NBCVPS|中国台湾2号|有效期：终生|无限流量|https://yww.uy/nbcvps_ssr
 us-hnh-b.uturbo.xyz|443|mblank1port|chacha20|auth_aes128_md5|24558:52halibote|tls1.2_ticket_auth|officecdn.microsoft.com|供应商：NBCVPS|美国1号|有效期：终生|无限流量|https://yww.uy/nbcvps_ssr
 us-hnh-d.uturbo.xyz|443|mblank1port|chacha20|auth_aes128_md5|24558:52halibote|tls1.2_ticket_auth|officecdn.microsoft.com|供应商：NBCVPS|美国2号|有效期：终生|无限流量|https://yww.uy/nbcvps_ssr
 us-la-a.uturbo.xyz|443|mblank1port|chacha20|auth_aes128_md5|24558:52halibote|tls1.2_ticket_auth|officecdn.microsoft.com|供应商：NBCVPS|美国3号|有效期：终生|无限流量|https://yww.uy/nbcvps_ssr
